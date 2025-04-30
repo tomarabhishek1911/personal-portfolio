@@ -1,4 +1,4 @@
-import logo from "../assets/Logo7.png"; {/*Logo of the portfolio holder*/}
+import logo from "../assets/logo7.png"; {/*Logo of the portfolio holder*/}
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
