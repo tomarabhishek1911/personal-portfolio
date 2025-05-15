@@ -43,12 +43,12 @@ export const RESEARCH = [
     link : "https://assignment-sparklehood.netlify.app/"
   },
   {
-    title: "\"Tic-Tac-Toe with history \"",
+    title: "\"Front-end Landing Page creation for a salon \"",
     image: image3,
     description:
-      "Play Tic Tac Toe Keep track of moves with a detailed history, game review your moves",
-    technologies: ["HTML", "CSS", "JavaScript", "React.JS"],
-    link : "https://tomar-tic-tac-toe.netlify.app/"
+      "Created a Landing page for a business, includes their work and expertise in personal Grooming",
+    technologies: ["HTML", "CSS", "JavaScript", "React.JS","TailwindCSS"],
+    link : "https://barber-shop-seven-self.vercel.app/"
   },
   {
     title: "\"LeetCode Profile\"",
