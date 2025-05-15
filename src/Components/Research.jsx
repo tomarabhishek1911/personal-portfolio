@@ -25,7 +25,7 @@ const Research = () => {
       whileInView={{opacity: 1, y: 0}}
       initial={{opacity: 0, y: -100}}
       transition={{duration: 0.5}}
-      className="my-20 text-center text-4xl"> Research </motion.h2>
+      className="my-20 text-center text-4xl"> Web-Development Work </motion.h2>
       <div>
         {visibleResearch.map((research, index) => (
           <div key={index} className="mb-8 flex flex-wrap lg:justify-center">
