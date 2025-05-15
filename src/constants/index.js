@@ -27,12 +27,12 @@ export const RESEARCH = [
     link : "https://laundry-ruby.vercel.app/"
   },
   {
-    title: "\"Blogging Website\"",
-    image: image2,
+    title: "\"Front-end Landing Page creation for a salon \"",
+    image: image3,
     description:
-      "created for community of bloggers. Post blogs, delete blogs, Read and discover blogs.",
-    technologies: ["React.JS", "Node.JS", "HTML","CSS","JavaScript"],
-    link : "https://abhishek-blogging-project.netlify.app/ "
+      "Created a Landing page for a business, includes their work and expertise in personal Grooming",
+    technologies: ["HTML", "CSS", "JavaScript", "React.JS","TailwindCSS"],
+    link : "https://barber-shop-seven-self.vercel.app/"
   },
   {
     title: "\"AI incident Dashboard\"",
@@ -43,12 +43,12 @@ export const RESEARCH = [
     link : "https://assignment-sparklehood.netlify.app/"
   },
   {
-    title: "\"Front-end Landing Page creation for a salon \"",
-    image: image3,
+    title: "\"Blogging Website\"",
+    image: image2,
     description:
-      "Created a Landing page for a business, includes their work and expertise in personal Grooming",
-    technologies: ["HTML", "CSS", "JavaScript", "React.JS","TailwindCSS"],
-    link : "https://barber-shop-seven-self.vercel.app/"
+      "created for community of bloggers. Post blogs, delete blogs, Read and discover blogs.",
+    technologies: ["React.JS", "Node.JS", "HTML","CSS","JavaScript"],
+    link : "https://abhishek-blogging-project.netlify.app/ "
   },
   {
     title: "\"LeetCode Profile\"",
